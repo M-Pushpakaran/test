@@ -16,10 +16,10 @@
     "@braitsch/express": "^1.1.8",
     "cookie-parser": "^1.4.5",
     "emailjs": "^3.4.0",
-    "moment": "^2.29.1",
-    "mongodb": "^3.6.6",
+    "moment": "^2.29.4",
+    "mongodb": "^3.6.10",
     "pug": "^3.0.2",
-    "stylus": "^0.54.8"
+    "stylus": "^0.55.0"
   },
   "engines": {
     "node": ">=12.21.0"
