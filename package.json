@@ -15,7 +15,7 @@
   "dependencies": {
     "@braitsch/express": "^1.1.8",
     "cookie-parser": "^1.4.5",
-    "emailjs": "^3.4.0",
+    "emailjs": "^3.8.1",
     "moment": "^2.29.4",
     "mongodb": "^3.6.10",
     "pug": "^3.0.2",
