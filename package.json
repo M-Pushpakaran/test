@@ -16,7 +16,7 @@
     "@braitsch/express": "^1.1.8",
     "cookie-parser": "^1.4.5",
     "emailjs": "^3.4.0",
-    "moment": "^2.29.4",
+    "moment": "^2.30.1",
     "mongodb": "^3.6.10",
     "pug": "^3.0.2",
     "stylus": "^0.55.0"
