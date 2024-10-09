@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "@braitsch/express": "^1.1.8",
-    "cookie-parser": "^1.4.5",
+    "cookie-parser": "^1.4.7",
     "emailjs": "^3.4.0",
     "moment": "^2.29.4",
     "mongodb": "^3.6.10",
